@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 **- 🌱 I’m currently learning Python and Solidity**
 
 ![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcarette&theme=omni&show_icons=true)
+![Pierre's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjkerrison&langs_count=8&theme=omni&layout=compact)
