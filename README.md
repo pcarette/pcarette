@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 **- 🌱 I’m currently learning Python and Solidity**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcarette)]
+![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcarette&theme=omni&show_icons=true)
